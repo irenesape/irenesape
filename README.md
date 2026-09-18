@@ -15,7 +15,7 @@ Planning how to move 473 software components from on-premise to the cloud in sta
 
 *Engineering project (PAE) at ETSETB-UPC.*
 
-**PageRank on the AS-level Internet topology** *(in progress, autumn 2026)*
+**[PageRank on the AS-level Internet topology](https://github.com/irenesape/pagerank-internet-as)** *(in progress, autumn 2026)*
 
 Ranking the ~75,000 networks that make up the Internet using CAIDA's AS relationship data, and studying how fast the underlying numerical methods converge. Everything implemented from scratch with sparse linear algebra.
 
